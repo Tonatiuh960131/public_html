@@ -1,0 +1,47 @@
+body{
+    color: #272727;
+    background-color: #272727;   
+    display: center;
+    float: center; 
+}
+img:hover{
+ transform: scale(1.2);
+}
+div.peli{
+    float: center;
+    display:center;
+    color: white;
+    text-align: center;
+}
+table{
+    margin:5px rgb(4, 143, 4);
+
+}
+th{
+    background-color: rgb(5, 128, 5);
+    color: white;
+}
+
+td{
+    display: center;
+    float:center;
+    
+}
+
+.pe{
+    float:right;
+    height: 400px;
+    width: 400px;
+}
+.top{
+    display: center;
+    float: center;
+
+   text-align: center;
+   color:rgb(148, 28, 204);
+   background-color: rgb(23, 223, 123);
+}
+.top:hover{
+    background-color: wheat;
+    color: crimson;
+}

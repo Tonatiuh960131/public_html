@@ -1,0 +1,173 @@
+body{
+ color: #272727;
+ background-color: #272727;   
+ display: center;
+ float: center;
+}
+
+hr{
+    color: white;
+
+}
+h2{
+    text-decoration-line: underline;
+  text-decoration-style:wavy;
+  text-decoration-color: red;
+  text-underline-offset: .5em;
+  
+    
+    
+}
+
+.r  {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-underline-offset: .5em;
+}
+.s {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-underline-offset: .5em;
+}
+.t {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-underline-offset: .5em;
+}
+div.info{
+    float: right;
+    display:inline-table;
+    
+}
+.acer{
+    text-align: center;
+    color: white;
+
+}
+.perf {
+    color: white;
+    text-align: center;
+    float: center;
+    display: center;
+        
+}
+.textd{
+    float: right;
+}
+.edu{
+    color: white;
+    text-align: center;
+    float: center;
+    display: center;
+}
+.texti{
+    float: left;
+}
+.con{
+    color:white;
+    text-align: center;
+    
+    display:inline-block;
+    align-items: center;
+}
+.f{
+    float: left;
+     margin: 5px wheat ;
+     background-color: #272727;
+}
+.g{
+    float: right;
+    margin: 5px wheat ;
+
+}
+.h{
+    float: right;
+    margin: 5px wheat ;
+
+}
+
+div.f:hover{
+color: #272727;
+background-color:white;
+float: center;
+display: inline-table;
+
+}
+div.g:hover{
+    color: #272727;
+    background-color:white;
+    float: center;
+    display: inline-table;
+    }
+ div.h:hover{
+    color: #272727;
+     background-color:white;
+     float: center;
+     display: inline-table;
+     }
+     
+        
+ .trab{
+     color: white;
+     text-align: center;
+     float:center;
+     display: center;     
+ }
+ table{
+     width: 95%;
+ }
+ th,td{
+     width: 5%;
+    
+    vertical-align: top;
+     
+ }
+ .contac{
+     float: center;
+     display: center;
+     text-align: center;
+     background-color: #272727;
+     color: white;
+
+ }
+ .z{
+
+     margin:  5px, white;
+     color: white;
+     background-color: #272727;
+     height: 20px;
+     width: 300px;
+     float: center;
+ }
+ .x{
+
+    margin:  5px, white;
+    color: white;
+    background-color: #272727;
+    height: 20px;
+    width: 300px;
+    float: center;
+}
+.y{
+
+    margin:  5px, white;
+    color: white;
+    background-color: #272727;
+    height: 20px;
+    width: 600px;
+    float: center;
+}
+.w{
+
+    margin:  5px, white;
+    color: white;
+    background-color: #272727;
+    height: 400px;
+    width: 600px;
+    float: center;
+    text-align: center;
+}
+

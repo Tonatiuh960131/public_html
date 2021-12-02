@@ -1,0 +1,96 @@
+div.menu{
+
+background-color:rgba(7, 144, 179, 0.753);
+width: 250px;
+height: 650px;
+float: left;
+
+}
+h1{
+    font-size: 16pt;
+}
+.perfil{
+    color: white;
+    text-align: center;
+    float: center;
+
+}
+.a{
+    color:white;
+    text-align: center;
+    float: center;
+}
+.a:hover{
+    color:rgba(7, 144, 179, 0.753);
+    background-color: white;
+}
+
+.b{
+    
+    color:white;
+    text-align: center;
+    float: center;
+
+}
+.b:hover{
+    color:rgba(7, 144, 179, 0.753);
+    background-color: white;
+}
+
+.c{
+    color:white;
+    text-align: center;
+    float: center;
+}
+.c:hover{
+    color:rgba(7, 144, 179, 0.753);
+    background-color: white;
+}
+.o{
+    color:white;
+    text-align: center;
+    float: center;
+    
+}
+.o:hover{
+    color:rgba(7, 144, 179, 0.753);
+    background-color: white;
+}
+
+.d{
+    color:white;
+    text-align: center;
+    float: center;
+}
+.d:hover{
+    color:rgba(7, 144, 179, 0.753);
+    background-color: white;
+}
+
+
+.e{
+    color:white;
+    text-align: center;
+    float: center;
+}
+
+.ia:hover{
+    color: rgba(7, 144, 179, 0.753);
+    background-color:white;
+    transform: scale(1.2);
+}
+.ib:hover{
+    color: rgba(7, 144, 179, 0.753);
+    background-color: white;
+    transform: scale(1.2);
+}
+.ic:hover{
+    color: rgba(7, 144, 179, 0.753);
+    background-color: white;
+    transform: scale(1.2);
+}
+.id:hover{
+    color: rgba(7, 144, 179, 0.753);
+    background-color: white;
+    transform: scale(1.2);
+}
